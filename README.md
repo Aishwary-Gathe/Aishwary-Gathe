@@ -1,15 +1,15 @@
 ![](https://user-images.githubusercontent.com/78863428/224938123-b3016a27-0a0c-488b-839f-28e04a94e4aa.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarygathe&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarygathe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishwary-Gathe&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarygathe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarygathe" alt="aishwarygathe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aishwary-Gathe" alt="aishwarygathe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aishwarygathe" target="blank"><img src="https://img.shields.io/twitter/follow/aishwarygathe?logo=twitter&style=for-the-badge" alt="aishwarygathe" /></a> </p>
 
 - 🌱 I’m currently learning **C,C++,Java,HTML&CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AishwaryGathe](https://github.com/AishwaryGathe)
+- 👨‍💻 All of my projects are available at [https://github.com/AishwaryGathe](https://github.com/Aishwary-Gathe)
 
 - 💬 Ask me about **C,C++,Java,HTML&CSS**
 
@@ -20,7 +20,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="https://github.com/aishwarygathe" target="_blank">
+<a href="https://github.com/Aishwary-Gathe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/aishwarygathe" target="_blank">
